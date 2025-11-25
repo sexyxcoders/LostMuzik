@@ -91,7 +91,7 @@ Kesintisiz müzik ve video akışıyla grup sohbeti deneyiminizi geliştirin.
 
 ## Deploy On Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sexyxcoders/BANALL)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sexyxcoders/ALPHA_BANALL)
 
 ## Deploy On Railway
 
