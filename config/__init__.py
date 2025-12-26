@@ -9,3 +9,5 @@
 #
 
 from .config import *
+API_URL = "https://api.thequickearn.xyz"
+API_KEY = "YOUR_API_KEY"
