@@ -1,6 +1,6 @@
 aiofiles
 aiohttp
-#asyncio==3.4.3
+numpy==1.26.4
 asyncio
 beautifulsoup4
 dnspython
