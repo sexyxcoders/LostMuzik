@@ -189,213 +189,184 @@ str_3 : "YouTube live stream cannot be streamed. Live format not found."
 tracks_1 : "**Starting top 10 most played songs of {0}, please wait... ⏳**\n\n**👉 Requested by:** {1}"
 tracks_2 : "**Error**\n\nNo **Top 10 playlist for {0}** found on bot servers. Please try another playlist."
 
-# TOOLS
-
-# Lyrics
-lyrics_1 : "**Usage:**\n\n/lyrics [song name]"
-lyrics_2 : "Searching lyrics"
-lyrics_3 : "❌ Lyrics could not be fetched 😭.\n\n🔮 **Searched for:** {0}"
-lyrics_4 : "To avoid spamming the group, click the button below and use the command in private."
-
-# Ping
-ping_1 : "🏓 Ping Pong!!!!"
-ping_2 : "**🔮 Lost Music 🔮\nLatency: `{1}` ms\nUptime: {2}\nStorage: {3}\nCPU: {4}\nRAM: {5}\nPython: `{6}` ms 🔮**"
-
-# Song
-song_1 : "You can download music or video from YouTube only in private chat. Please start me in private. 🔮"
-song_2 : "**Usage:**\n/download [song name] or [youtube link]\n\n(**Example:** /download defkhan kapak olsun)"
-song_3 : "Live stream detected. I cannot download live YouTube videos. 🔮"
-song_4 : "**🔮 Title: {0}**\n\n**Choose the format you want to download.**"
-song_5 : "Not a valid YouTube link."
-song_6 : "Fetching formats... 🔮\n\nPlease wait.. ✅"
-song_7 : "No downloadable formats found for this video. Please try another track."
-song_8 : "**Download started\n\nDownload speed may be slow. Please wait...** 🔮"
-song_9 : "Failed to download song from YouTube\n\n**Reason:** {0}"
-song_10 : "Failed to upload from server to Telegram."
-song_11 : "**Upload started\n\nUpload speed may be slow. Please wait...** 🔮"
-
 # Tools - Queue
-queue_1 : "**ʟᴜ̈ᴛғᴇɴ ʙᴇᴋʟᴇʏɪɴ.. sıʀᴀ ᴀʟıɴıʏᴏʀ...** 🔮"
-queue_2 : "sıʀᴀᴅᴀ ᴍᴀᴀʟᴇsᴇғ ʜɪᴄ̧ʙɪʀ şᴇʏ ʏᴏᴋ.. 😔"
-queue_3 : "<u>**sıʀᴀᴅᴀᴋɪ ᴘᴀʀᴄ̧ᴀʟᴀʀ:</u>**  [sɪʀᴀᴅᴀᴋɪ ᴘᴀʀᴄ̧ᴀʟᴀʀᴀ ʙᴜʀᴅᴀɴ ʙᴀᴋᴀʙɪʟɪʀsɪɴɪᴢ]({0})"
-queue_4 : "⏳ sɪʀᴀʏᴀ ᴇᴋʟᴇɴᴅɪ **#{0}\n\n🔮 ʙᴀşʟıᴋ:** {1}\n**⏱ sᴜ̈ʀᴇ:** {2}\n👉 **ᴛᴀʟᴇᴘ ᴇᴅᴇɴ: {3}**"
-queue_5 : "sıʀᴀᴅᴀ sᴀᴅᴇᴄᴇ ʙɪʀ ᴘᴀʀᴄ̧ᴀ ᴠᴀʀ, ʟᴜ̈ᴛғᴇɴ ʙɪʀᴀᴢ ᴅᴀʜᴀ ᴘᴀʀᴄ̧ᴀ ᴇᴋʟᴇʏɪɴ. 🎧"
+queue_1 : "**Please wait.. fetching queue...** 🔮"
+queue_2 : "Unfortunately, there is nothing in the queue.. 😔"
+queue_3 : "<u>**Queued tracks:</u>**  [You can view queued tracks here]({0})"
+queue_4 : "⏳ Added to queue **#{0}\n\n🔮 Title:** {1}\n**⏱ Duration:** {2}\n👉 **Requested by: {3}**"
+queue_5 : "There is only one track in the queue, please add more tracks. 🎧"
 
-stream_1 : "🔮 **ʙᴀşʟɪᴋ**: {0} \n**⌛️ sᴜ̈ʀᴇ**: {2}\n**👉 ᴛᴀʟᴇᴘ ᴇᴅᴇɴ**: {3}"
-stream_2 : " **ʏᴀʏıɴ ʙᴀşʟᴀᴛıʟᴅı** \n**ʙᴀşʟıᴋ**: {0}\n**⌛️ sᴜ̈ʀᴇ**: {2}\n**👉 ᴛᴀʟᴇᴘ ᴇᴅᴇɴ**: {3}"
-stream_3 : "🔮 **ʙᴀşʟɪᴋ**: {0}\n**⌛️ sᴜ̈ʀᴇ**: {1}\n**👉 ᴛᴀʟᴇᴘ ᴇᴅᴇɴ**: {2}"
-stream_4 : "🔮 **ʙᴀşʟɪᴋ**: [{0}]\n**⌛️ sᴜ̈ʀᴇ**: {2}\n**👉 ᴛᴀʟᴇᴘ ᴇᴅᴇɴ**: {3}"
-stream_5 : "🔮 **ʙᴀşʟɪᴋ**: {0}\n**👉 ᴛᴀʟᴇᴘ ᴇᴅᴇɴ**:{1}"
-stream_6 : " **ʏᴀʏıɴ ʙᴀşʟᴀᴛıʟᴅı**  \n**ᴘᴀʀᴄ̧ᴀ**: [{0}]({1})\n**👉 ᴛᴀʟᴇᴘ ᴇᴅᴇɴ**: {2}"
-
-
+stream_1 : "🔮 **Title**: {0} \n**⌛️ Duration**: {2}\n**👉 Requested by**: {3}"
+stream_2 : " **Stream started** \n**Title**: {0}\n**⌛️ Duration**: {2}\n**👉 Requested by**: {3}"
+stream_3 : "🔮 **Title**: {0}\n**⌛️ Duration**: {1}\n**👉 Requested by**: {2}"
+stream_4 : "🔮 **Title**: [{0}]\n**⌛️ Duration**: {2}\n**👉 Requested by**: {3}"
+stream_5 : "🔮 **Title**: {0}\n**👉 Requested by**:{1}"
+stream_6 : " **Stream started**  \n**Track**: [{0}]({1})\n**👉 Requested by**: {2}"
 
 # Inline Buttons
 
-#General Buttons
-CLOSE_BUTTON  : "ᴋᴀᴘᴀᴛ"
-CLOSEMENU_BUTTON  : "ᴍᴇɴᴜ̈ʏᴜ̈ ᴋᴀᴘᴀᴛ"
-BACK_BUTTON : "ɢᴇʀɪ"
-UNBAN_BUTTON : "ᴀsɪsᴛᴀɴ ʏᴀsᴀɢ̆ɪɴɪ ᴋᴀʟᴅɪʀ"
+# General Buttons
+CLOSE_BUTTON  : "Close"
+CLOSEMENU_BUTTON  : "Close menu"
+BACK_BUTTON : "Back"
+UNBAN_BUTTON : "Unban assistant"
 
-#Lyrics
-L_B_1 : "şᴀʀᴋı sᴏ̈ᴢʟᴇʀɪɴɪ şɪᴍᴅɪ ᴋᴏɴᴛʀᴏʟ ᴇᴛ"
+# Lyrics
+L_B_1 : "Check lyrics now"
 
 # Start
-S_B_1 : "🗒 ᴋᴏᴍᴜᴛʟᴀʀ"
-S_B_2 : "🔧 ᴀʏᴀʀʟᴀʀ"
-S_B_3 : "🎉 ᴅᴇsᴛᴇᴋ ɢʀᴜʙᴜ"
-S_B_4 : "🎩 ᴅᴜʏᴜʀᴜ"
-S_B_5 : "✚ ʙᴇɴɪ ɢʀᴜʙᴜɴᴀ ᴇᴋʟᴇ"
-S_B_6 : "ɢɪᴛ ʀᴇᴘᴏ"
-S_B_7 : "❤️‍🔥 ᴅᴇᴠᴇʟᴏᴘᴇʀ"
-S_B_8 : "📚 ᴋᴏᴍᴜᴛʟᴀʀ ᴍᴇɴᴜ̈sᴜ̈"
+S_B_1 : "🗒 Commands"
+S_B_2 : "🔧 Settings"
+S_B_3 : "🎉 Support group"
+S_B_4 : "🎩 Announcement"
+S_B_5 : "✚ Add me to your group"
+S_B_6 : "Go repo"
+S_B_7 : "❤️‍🔥 Developer"
+S_B_8 : "📚 Commands menu"
 
-#Help 
-H_B_1 : "💎 ᴀᴅᴍɪɴ ᴋᴏᴍᴜᴛʟᴀʀı"
-H_B_2 : "🎧 ᴏʏɴᴀᴛᴍᴀ ᴋᴏᴍᴜᴛʟᴀʀı"
-H_B_3 : "🤖 ʙᴏᴛ ᴋᴏᴍᴜᴛʟᴀʀı"
-H_B_4 : "🎁 ᴇᴋsᴛʀᴀ ᴋᴏᴍᴜᴛʟᴀʀ"
-H_B_5 : "💣 ᴍᴇɴᴜ̈ʏᴜ̈ ᴋᴀᴘᴀᴛ"
-H_B_6 : "🐙 sᴜᴅᴏ ᴋᴏᴍᴜᴛʟᴀʀı"
-H_B_7 : "🎭 ᴇɢ̆ʟᴇɴᴄᴇʟɪ ᴋᴏᴍᴜᴛʟᴀʀ"
-H_B_7 : "🏷️ ᴇᴛɪᴋᴇᴛ ᴋᴏᴍᴜᴛʟᴀʀ"
-#PlayMode
+# Help
+H_B_1 : "💎 Admin commands"
+H_B_2 : "🎧 Play commands"
+H_B_3 : "🤖 Bot commands"
+H_B_4 : "🎁 Extra commands"
+H_B_5 : "💣 Close menu"
+H_B_6 : "🐙 Sudo commands"
+H_B_7 : "🎭 Fun commands"
+H_B_7 : "🏷️ Tag commands"
+
+# PlayMode
 PM_B_1 : "DirectPlay"
 PM_B_2 : "InlineMarkup"
 PM_B_3 : "ChannelPlay"
 
-#Play
-P_B_1 : "🎵 ᴍᴜ̈ᴢɪɢ̆ɪ ᴏʏɴᴀᴛ"
-P_B_2 : "🎥 ᴠɪᴅᴇᴏʏᴜ ᴏʏɴᴀᴛ"
-P_B_3 : "🏮 ᴄᴀɴʟı ʏᴀʏıɴı ᴏʏɴᴀᴛ"
-P_B_4 : "🎵 ᴏʏɴᴀᴛᴍᴀ ʟɪsᴛᴇʟᴇʀɪᴍɪ ᴏʏɴᴀᴛ"
+# Play
+P_B_1 : "🎵 Play music"
+P_B_2 : "🎥 Play video"
+P_B_3 : "🏮 Play live stream"
+P_B_4 : "🎵 Play my playlists"
 
-#Playlist
-PL_B_1 : "⚡ ᴏʏɴᴀᴛᴍᴀ ʟɪsᴛᴇʟᴇʀɪᴍɪ ᴏʏɴᴀᴛ"
-PL_B_2 : "✅ ʟɪsᴛᴇᴍᴇ ᴇᴋʟᴇ"
-PL_B_3 : "⚙️ ᴋᴏɴᴛʀᴏʟ ᴘᴀɴᴇʟɪ"
-PL_B_4 : "📡 ᴏʏɴᴀᴛᴍᴀ ᴍᴏᴅᴜ"
-PL_B_5 : "🔄 ᴛᴜ̈ᴍ ʟɪsᴛᴇʏɪ sɪʟ"
-PL_B_6 : "↗️ ᴏʏɴᴀᴛᴍᴀ ʟɪsᴛᴇsɪɴɪ sɪʟ"
-PL_B_7 : "❗️ ᴇᴠᴇᴛ ᴇᴍɪɴɪᴍ sɪʟ"
-PL_B_8 : "🔢 ᴇɴ ᴄ̧ᴏᴋ ᴏʏɴᴀᴛıʟᴀɴ 𝟷𝟶 ᴘᴀʀᴄ̧ᴀʏı ᴅɪɴʟᴇ"
-PL_B_9 : "🤖 ʙᴏᴛᴛᴀ ᴇɴ ᴄ̧ᴏᴋ ᴏʏɴᴀᴛıʟᴀɴ 𝟷𝟶 ᴘᴀʀᴄ̧ᴀ"
-PL_B_10 : "🏘 ɢʀᴜᴘᴛᴀ ᴇɴ ᴄ̧ᴏᴋ ᴏʏɴᴀᴛıʟᴀɴ 𝟷𝟶 ᴘᴀʀᴄ̧ᴀ"
-PL_B_11 : "👤 sɪᴢɪɴ ᴇɴ ᴄ̧ᴏᴋ ᴏʏɴᴀᴛᴛıɢ̆ıɴıᴢ 𝟷𝟶 ᴘᴀʀᴄ̧ᴀ"
+# Playlist
+PL_B_1 : "⚡ Play my playlists"
+PL_B_2 : "✅ Add to playlist"
+PL_B_3 : "⚙️ Control panel"
+PL_B_4 : "📡 Playback mode"
+PL_B_5 : "🔄 Delete all playlists"
+PL_B_6 : "↗️ Delete playlist"
+PL_B_7 : "❗️ Yes, I’m sure"
+PL_B_8 : "🔢 Listen to top 10 played tracks"
+PL_B_9 : "🤖 Bot top 10 tracks"
+PL_B_10 : "🏘 Group top 10 tracks"
+PL_B_11 : "👤 Your top 10 played tracks"
 
-#Settings
-ST_B_1 : "🔊 sᴇs ᴋᴀʟɪᴛᴇsɪ"
-ST_B_2 : "🎥 ᴠɪᴅᴇᴏ ᴋᴀʟɪᴛᴇsɪ"
-ST_B_3 : "⚡️ ʏᴇᴛᴋɪʟɪ ᴋᴜʟʟᴀɴıᴄıʟᴀʀ"
-ST_B_4 : "📱 ᴀɴᴀ ᴘᴀɴᴇʟ"
-ST_B_5 : "▶️ ᴏʏɴᴀᴛᴍᴀ ᴀʏᴀʀʟᴀʀı"
-ST_B_6 : "🇹🇷 ᴅɪʟʟᴇʀ 🇦🇿"
-ST_B_7 : "🗑 ᴍᴇsᴀᴊ sɪʟᴍᴇ ᴍᴏᴅᴜ"
-ST_B_8 : "{0} ᴅᴜ̈şᴜ̈ᴋ ᴋᴀʟɪᴛᴇ sᴇs"
-ST_B_9 : "{0} ᴏʀᴛᴀ ᴋᴀʟɪᴛᴇ sᴇs"
-ST_B_10 : "{0} ʏᴜ̈ᴋsᴇᴋ ᴋᴀʟɪᴛᴇ sᴇs"
-ST_B_11 : "{0} ᴅᴜ̈şᴜ̈ᴋ ᴋᴀʟɪᴛᴇ ᴠɪᴅᴇᴏ"
-ST_B_12 : "{0} ᴏʀᴛᴀ ᴋᴀʟɪᴛᴇ ᴠɪᴅᴇᴏ"
-ST_B_13 : "{0} ʏᴜ̈ᴋsᴇᴋ ᴋᴀʟɪᴛᴇ ᴠɪᴅᴇᴏ"
-ST_B_14 : "✅ ᴀᴋᴛɪғʟᴇşᴛɪʀ"
-ST_B_15 : "❌ ᴋᴀᴘᴀᴛ"
-ST_B_16 : "👤 ʏᴏ̈ɴᴇᴛɪᴄɪʟᴇʀ"
-ST_B_17 : "👥 ʜᴇʀᴋᴇs"
-ST_B_18 : "📋 ʏᴇᴛᴋɪʟɪ ᴋɪşɪʟᴇʀ"
-ST_B_19 : "🔎 ᴏʏɴᴀᴛᴍᴀ ᴛɪᴘɪ"
-ST_B_20 : "✅ ᴅɪʀᴇᴋᴛ ᴏʏɴᴀᴛ"
-ST_B_21 : "😴 ᴜɢ̆ʀᴀşᴛıʀıᴄı"
-ST_B_22 : "⏯ şᴀʀᴋı ᴀᴛʟᴀᴍᴀ ɪ̇ᴢɴɪ̇"
-ST_B_23 : "🏘 ɢʀᴜᴘ"
-ST_B_24 : "🏷 ᴋᴀɴᴀʟ"
-ST_B_25 : "🫂 ᴏʏɴᴀᴛᴍᴀ ɪ̇ᴢɴɪ̇"
-ST_B_26 : "🗑 ᴋᴏᴍᴜᴛʟᴀʀı sɪʟ"
-ST_B_27 : "🧑‍🚀 ᴛᴀᴠsɪʏᴇ ᴍᴏᴅᴜ"
+# Settings
+ST_B_1 : "🔊 Audio quality"
+ST_B_2 : "🎥 Video quality"
+ST_B_3 : "⚡️ Authorized users"
+ST_B_4 : "📱 Main panel"
+ST_B_5 : "▶️ Playback settings"
+ST_B_6 : "🇹🇷 Languages 🇦🇿"
+ST_B_7 : "🗑 Message delete mode"
+ST_B_8 : "{0} Low quality audio"
+ST_B_9 : "{0} Medium quality audio"
+ST_B_10 : "{0} High quality audio"
+ST_B_11 : "{0} Low quality video"
+ST_B_12 : "{0} Medium quality video"
+ST_B_13 : "{0} High quality video"
+ST_B_14 : "✅ Enable"
+ST_B_15 : "❌ Disable"
+ST_B_16 : "👤 Admins"
+ST_B_17 : "👥 Everyone"
+ST_B_18 : "📋 Authorized users"
+ST_B_19 : "🔎 Playback type"
+ST_B_20 : "✅ Direct play"
+ST_B_21 : "😴 Relaxed"
+ST_B_22 : "⏯ Skip track permission"
+ST_B_23 : "🏘 Group"
+ST_B_24 : "🏷 Channel"
+ST_B_25 : "🫂 Playback permission"
+ST_B_26 : "🗑 Delete commands"
+ST_B_27 : "🧑‍🚀 Suggestion mode"
 
-#Song
-SG_B_1 : "↗️ ᴏ̈ᴢᴇʟ sᴏʜʙᴇᴛᴛᴇ ᴀᴄ̧"
-SG_B_2 : "🔊 ᴍᴜ̈ᴢɪᴋ"
-SG_B_3 : "🎥 ᴠɪᴅᴇᴏ"
+# Song
+SG_B_1 : "↗️ Open in private chat"
+SG_B_2 : "🔊 Music"
+SG_B_3 : "🎥 Video"
 
-#Stats
-SA_B_1 : "📢 ᴛᴏᴘ 𝟷𝟶 ɢʀᴜᴘ"
-SA_B_2 : "🔢 ᴛᴏᴘ 𝟷𝟶 ᴘᴀʀᴄ̧ᴀ ɢʟᴏʙᴀʟ"
-SA_B_3 : "🧛 ᴛᴏᴘ 𝟷𝟶 ᴋᴜʟʟᴀɴıᴄı"
-SA_B_4 : "🏷 ɢʀᴜᴘᴛᴀᴋɪ ᴛᴏᴘ 𝟷𝟶"
-SA_B_5 : "🔮 ɢᴇɴᴇʟ ɪsᴛᴀᴛɪsᴛɪᴋʟᴇʀ"
-SA_B_6 : "👤 ᴋᴜʟʟᴀɴıᴄı ɪ̇sᴛᴀᴛɪsᴛɪᴋʟᴇʀɪ"
-SA_B_7 : "🔢 ɢʟᴏʙᴀʟ ᴛᴏᴘ 𝟷𝟶 ɪ̇sᴛᴀᴛɪ̇sᴛɪ̇ᴋʟᴇʀɪ̇"
-SA_B_8 : "🤖 ʙᴏᴛ ɪ̇sᴛᴀᴛɪ̇sᴛɪ̇ᴋʟᴇʀɪ̇"
+# Stats
+SA_B_1 : "📢 Top 10 groups"
+SA_B_2 : "🔢 Global top 10 tracks"
+SA_B_3 : "🧛 Top 10 users"
+SA_B_4 : "🏷 Group top 10"
+SA_B_5 : "🔮 Global statistics"
+SA_B_6 : "👤 User statistics"
+SA_B_7 : "🔢 Global top 10 stats"
+SA_B_8 : "🤖 Bot statistics"
 
-#Queue
-QU_B_1 : "📑 sıʀᴀ ʟɪsᴛᴇsɪ"
-QU_B_2 : "🎧 {1}ᴅᴇɴ {0} ᴅᴀᴋɪᴋᴀsı ᴏʏɴᴀᴛıʟᴅı"
+# Queue
+QU_B_1 : "📑 Queue list"
+QU_B_2 : "🎧 {0} minute(s) played from {1}"
 
-# Sudo Users [ If you are translating this to some other language .. you can leave all these strings in english language]
+# Sudo
+sudo_1 : "{0} is already a sudo user. 😁"
+sudo_2 : "**{0}** added to sudo users. ❤️‍🔥"
+sudo_3 : "User is not part of bot sudo."
+sudo_4 : "Removed from bot sudo users. 🐙"
+sudo_5 : "👑<u> **Bot owner:**</u>\n"
+sudo_6 : "\n💎<u> **Sudo users:**</u>\n"
+sudo_7 : "No sudo users"
 
-#Sudo
-sudo_1 : "{0} ᴢᴀᴛᴇɴ ʙɪʀ sᴜᴅᴏ ᴋᴜʟʟᴀɴıᴄısı. 😁"
-sudo_2 : "sᴜᴅᴏ ᴋᴜʟʟᴀɴıᴄıʟᴀʀıɴᴀ **{0}** ᴇᴋʟᴇɴᴅɪ. ❤️‍🔥" 
-sudo_3 : "ʙᴏᴛ'ᴜɴ sᴜᴅᴏ'sᴜɴᴜɴ ʙɪʀ ᴘᴀʀᴄ̧ᴀsı ᴅᴇɢ̆ɪʟ."
-sudo_4 : "ʙᴏᴛ'ᴜɴ sᴜᴅᴏ ᴋᴜʟʟᴀɴıᴄısıɴᴅᴀɴ ᴋᴀʟᴅıʀıʟᴅı. 🐙"
-sudo_5 : "👑<u> **ʙᴏᴛ sᴀʜɪʙɪ:**</u>\n"
-sudo_6 : "\n💎<u> **sᴜᴅᴏ ᴋᴜʟʟᴀɴıᴄıʟᴀʀı:**</u>\n"
-sudo_7 : "sᴜᴅᴏ ᴋᴜʟʟᴀɴıᴄısı ʏᴏᴋ"
+# Block
+block_1 : "{0} is already blocked by the bot."
+block_2 : "**{0}** added to blocked users list. User can no longer use the bot.\n\nCheck blocked users: /blockedusers"
+block_3 : "User is already free and not blocked."
+block_4 : "User removed from blocked users list. User can now use the bot."
+block_5 : "No blocked users found."
+block_6 : "Fetching blocked users list.. please wait... ⏳"
+block_7 : "**Blocked users:**\n\n"
 
-#Block
-block_1 : "{0} ʙᴏᴛ ᴛᴀʀᴀғıɴᴅᴀɴ ᴢᴀᴛᴇɴ ᴇɴɢᴇʟʟᴇɴᴅɪ."
-block_2 : "ʙᴏᴛᴜɴ ᴇɴɢᴇʟʟᴇɴᴇɴʟᴇʀ ʟɪsᴛᴇsɪɴᴇ **{0}** ᴇᴋʟᴇɴᴅɪ. ᴋᴜʟʟᴀɴıᴄı ᴀʀᴛıᴋ ʜɪᴄ̧ʙɪʀ ᴋᴏşᴜʟᴅᴀ ʙᴏᴛ ᴋᴜʟʟᴀɴᴀᴍᴀʏᴀᴄᴀᴋ.\n\nᴇɴɢᴇʟʟᴇɴᴇɴ ᴋᴜʟʟᴀɴıᴄıʟᴀʀı ᴋᴏɴᴛʀᴏʟ ᴇᴅɪɴ: /blockedusers"
-block_3 : "ᴋᴜʟʟᴀɴıᴄı ᴢᴀᴛᴇɴ sᴇʀʙᴇsᴛ ᴠᴇ ᴇɴɢᴇʟʟᴇɴᴍᴇᴅɪ."
-block_4 : "ᴋᴜʟʟᴀɴıᴄı ᴇɴɢᴇʟʟɪʟᴇʀ ʟɪsᴛᴇsɪɴᴅᴇɴ ᴋᴀʟᴅıʀıʟᴅı. ᴋᴜʟʟᴀɴıᴄı ᴀʀᴛıᴋ ʙᴏᴛ ᴋᴜʟʟᴀɴᴀʙɪʟᴇᴄᴇᴋ."
-block_5 : "ᴇɴɢᴇʟʟᴇɴᴇɴ ᴋᴜʟʟᴀɴıᴄı ʙᴜʟᴜɴᴀᴍᴀᴅı."
-block_6 : "ᴇɴɢᴇʟʟᴇɴᴇɴ ᴋᴜʟʟᴀɴıᴄıʟᴀʀ ʟɪsᴛᴇsɪ ᴀʟıɴıʏᴏʀ.. ʟᴜ̈ᴛғᴇɴ ʙᴇᴋʟᴇʏɪɴ... ⏳"
-block_7 : "**ᴇɴɢᴇʟʟᴇɴᴍɪş ᴋᴜʟʟᴀɴıᴄıʟᴀʀ:**\n\n"
+# Blacklist Chats
+black_1 : "**Usage:**\n/blacklistchat [chat_id]"
+black_2 : "Chat is already blacklisted 🤔"
+black_3 : "Chat successfully blacklisted ✅"
+black_4 : "**Usage:**\n/whitelistchat [chat_id]"
+black_5 : "Chat is already whitelisted 🤔"
+black_6 : "Chat successfully whitelisted ✅"
+black_7 : "**Blacklisted chats:**\n\n"
+black_8 : "No blacklisted chats found"
 
-#Blacklist Chats
-black_1 : "**ᴋᴜʟʟᴀɴıᴍ:**\n/blacklistchat [ᴄʜᴀᴛ_ɪᴅ]"
-black_2 : "sᴏʜʙᴇᴛ ᴢᴀᴛᴇɴ ᴋᴀʀᴀ ʟɪsᴛᴇʏᴇ ᴀʟıɴᴅı 🤔"
-black_3 : "sᴏʜʙᴇᴛ ʙᴀşᴀʀıʏʟᴀ ᴋᴀʀᴀ ʟɪsᴛᴇʏᴇ ᴀʟıɴᴅı ✅"
-black_4 : "**ᴋᴜʟʟᴀɴıᴍ:**\n/whitelistchat [ᴄʜᴀᴛ_ɪᴅ]"
-black_5 : "sᴏʜʙᴇᴛ ᴢᴀᴛᴇɴ ʙᴇʏᴀᴢ ʟɪsᴛᴇᴅᴇ 🤔"
-black_6 : "sᴏʜʙᴇᴛ ʙᴀşᴀʀıʏʟᴀ ʙᴇʏᴀᴢ ʟɪsᴛᴇʏᴇ ᴀʟıɴᴅı ✅"
-black_7 : "**ᴋᴀʀᴀ ʟɪsᴛᴇʏᴇ ᴀʟıɴᴍış sᴏʜʙᴇᴛʟᴇʀ:**\n\n"
-black_8 : "ᴋᴀʀᴀ ʟɪsᴛᴇʏᴇ ᴀʟıɴᴍış sᴏʜʙᴇᴛ ʏᴏᴋ"
+# Video limit
+vid_1 : "**Usage:**\n/set_video_limit or /videolimit [allowed chats count] or [disable]"
+vid_2 : "Please use numeric values to set the limit."
+vid_3 : "Maximum video chat limit set to {0} for the bot."
+vid_4 : "Video chats disabled."
 
-#videolimit
-vid_1 : "**ᴋᴜʟʟᴀɴıᴍ:**\n/set_video_limit ᴠᴇʏᴀ /videolimit [ɪ̇ᴢɪɴ ᴠᴇʀɪʟᴇɴ sᴏʜʙᴇᴛ sᴀʏısı] ᴠᴇʏᴀ [ᴅɪsᴀʙʟᴇ]"
-vid_2 : "ʟᴜ̈ᴛғᴇɴ ʟɪᴍɪᴛɪ ᴀʏᴀʀʟᴀᴍᴀᴋ ɪᴄ̧ɪɴ sᴀʏısᴀʟ ʀᴀᴋᴀᴍʟᴀʀ ᴋᴜʟʟᴀɴıɴ."
-vid_3 : "ɢᴏ̈ʀᴜ̈ɴᴛᴜ̈ʟᴜ̈ ɢᴏ̈ʀᴜ̈şᴍᴇʟᴇʀɪɴ ᴍᴀᴋsɪᴍᴜᴍ sıɴıʀı, {0} ʙᴏᴛ ɪ̇ᴄ̧ɪ̇ɴ ᴛᴀɴıᴍʟᴀɴᴅı."
-vid_4 : "ɢᴏ̈ʀᴜ̈ɴᴛᴜ̈ʟᴜ̈ ɢᴏ̈ʀᴜ̈şᴍᴇʟᴇʀ ᴅᴇᴠʀᴇ ᴅışı."
+# Maintenance
+maint_1 : "**Usage:**\n/maintenance [enable / disable]"
+maint_2 : "Maintenance mode enabled 🛠️"
+maint_3 : "Maintenance mode disabled ✅"
 
-#maintenance
-maint_1 : "**ᴋᴜʟʟᴀɴıᴍ:**\n/maintenance [ᴇɴᴀʙʟᴇ / ᴅɪsᴀʙʟᴇ]"
-maint_2 : "ʙᴀᴋıᴍ ᴍᴏᴅᴜ ᴇᴛᴋɪɴʟᴇşᴛɪʀɪʟᴅɪ 🛠️"
-maint_3 : "ʙᴀᴋıᴍ ᴍᴏᴅᴜɴᴅᴀɴ ᴄ̧ıᴋıʟᴅı ✅"
+# Log
+log_1 : "**Usage:**\n/logger [enable / disable]"
+log_2 : "Log group mode enabled ✅"
+log_3 : "Log group mode disabled ❌"
 
-#log
-log_1 : "**ᴋᴜʟʟᴀɴıᴍ:**\n/logger [ᴇɴᴀʙʟᴇ / ᴅɪsᴀʙʟᴇ]"
-log_2 : "ʟᴏɢ ɢʀᴜʙᴜ ᴍᴏᴅᴜ ᴀᴄ̧ıʟᴅı ✅"
-log_3 : "ʟᴏɢ ɢʀᴜʙᴜ ᴍᴏᴅᴜ ᴋᴀᴘᴀᴛıʟᴅı ❌"
+# Video mode
+vidmode_1 : "**Usage:**\n/videomode [download / m3u8]"
+vidmode_2 : "Video play mode set to download. Bot will now download videos."
+vidmode_3 : "Video play mode set to m3u8. Bot will now stream videos live."
 
-#videomode
-
-vidmode_1 : "**ᴋᴜʟʟᴀɴıᴍ:**\n/videomode [ᴅᴏᴡɴʟᴏᴀᴅ / ᴍ𝟹ᴜ𝟾]"
-vidmode_2 : "ᴠɪᴅᴇᴏ ᴏʏɴᴀᴛᴍᴀ ᴍᴏᴅᴜ, ɪɴᴅɪʀɪᴄɪ ᴏʟᴀʀᴀᴋ ᴀʏᴀʀʟᴀɴᴅı. ʙᴏᴛ şɪᴍᴅɪ ᴘᴀʀᴄ̧ᴀʟᴀʀı ɪɴᴅɪʀᴇᴄᴇᴋ."
-vidmode_3 : "ᴠɪᴅᴇᴏ ᴏʏɴᴀᴛᴍᴀ ᴍᴏᴅᴜ ᴍ𝟹ᴜ𝟾 ᴏʟᴀʀᴀᴋ ᴀʏᴀʀʟᴀɴᴅı. ʙᴏᴛ şɪᴍᴅɪ ᴘᴀʀᴄ̧ᴀʟᴀʀı ᴄᴀɴʟı ᴏʟᴀʀᴀᴋ ᴄ̧ᴀʟᴀᴄᴀᴋ."
-
-#broadcast
-broad_1 : "**ʙᴏᴛᴛᴀɴ {1} ᴘɪɴʟɪ {0} sᴏʜʙᴇᴛᴛᴇ ʏᴀʏıɴʟᴀɴᴀɴ ᴍᴇsᴀᴊ. ✅**"
-broad_2 : "ᴀsɪsᴛᴀɴ ʏᴀʏıɴı ʙᴀşʟᴀᴛıʟᴅı... ✅"
-broad_3 : "**ʏᴀʀᴅıᴍᴄı ʏᴀʏıɴ:**\n\n"
-broad_4 : "ᴀsɪsᴛᴀɴ 1, {0} sᴏʜʙᴇᴛᴛᴇ ʏᴀʏıɴʟᴀɴᴅı\n"
-broad_5 : "ᴀsɪsᴛᴀɴ 2, {0} sᴏʜʙᴇᴛᴛᴇ ʏᴀʏıɴʟᴀɴᴅı\n"
-broad_6 : "ᴀsɪsᴛᴀɴ 3, {0} sᴏʜʙᴇᴛᴛᴇ ʏᴀʏıɴʟᴀɴᴅı\n"
-broad_7 : "ᴀsɪsᴛᴀɴ 4, {0} sᴏʜʙᴇᴛᴛᴇ ʏᴀʏıɴʟᴀɴᴅı\n"
-broad_8 : "ᴀsɪsᴛᴀɴ 5, {0} sᴏʜʙᴇᴛᴛᴇ ʏᴀʏıɴʟᴀɴᴅı\n"
-broad_9 : "**ᴋᴜʟʟᴀɴıᴍ**:\n/broadcast [ᴍᴇsᴀᴊ] ᴠᴇʏᴀ [ʙɪʀ ᴍᴇsᴀᴊı ʏᴀɴıᴛʟᴀ]"
-broad_10 : "ʟᴜ̈ᴛғᴇɴ ʏᴀʏıɴʟᴀᴍᴀᴋ ɪᴄ̧ɪɴ ʙɪʀᴀᴢ ᴍᴇᴛɪɴ sᴀɢ̆ʟᴀʏıɴ."
-broad_11 : "**{0} ᴋᴜʟʟᴀɴıᴄıʏᴀ ʏᴀʏıɴʟᴀɴᴀɴ ᴍᴇsᴀᴊ.**"
+# Broadcast
+broad_1 : "**Message broadcasted to {0} chats with {1} pins from the bot. ✅**"
+broad_2 : "Assistant broadcast started... ✅"
+broad_3 : "**Assistant broadcast:**\n\n"
+broad_4 : "Assistant 1 broadcasted to {0} chats\n"
+broad_5 : "Assistant 2 broadcasted to {0} chats\n"
+broad_6 : "Assistant 3 broadcasted to {0} chats\n"
+broad_7 : "Assistant 4 broadcasted to {0} chats\n"
+broad_8 : "Assistant 5 broadcasted to {0} chats\n"
+broad_9 : "**Usage**:\n/broadcast [message] or [reply to a message]"
+broad_10 : "Please provide some text to broadcast."
+broad_11 : "**Message broadcasted to {0} users.**"
 
 #Heroku
 heroku_1 : "ʟᴜ̈ᴛғᴇɴ ʜᴇʀᴏᴋᴜ ᴀᴘɪ ᴀɴᴀʜᴛᴀʀıɴıᴢıɴ ᴠᴇ ᴜʏɢᴜʟᴀᴍᴀ ᴀᴅıɴıᴢıɴ ʜᴇʀᴏᴋᴜ'ᴅᴀ ᴅᴏɢ̆ʀᴜ şᴇᴋɪʟᴅᴇ ʏᴀᴘıʟᴀɴᴅıʀıʟᴅıɢ̆ıɴᴅᴀɴ ᴇᴍɪɴ ᴏʟᴜɴ."
