@@ -1,18 +1,17 @@
-# ---------- Telegram Core ----------
+# Telegram
 pyrogram==2.0.106
 tgcrypto==1.2.5
 
-# ---------- Voice Call (STABLE ONLY) ----------
-pytgcalls==0.0.16
-tgcalls==0.0.10
+# Voice Call (NEW)
+pytgcalls==3.0.0.dev6
+tgcalls==3.0.0.dev6
 
-# ---------- Async / Utils ----------
+# Async / Utils
 aiofiles
 aiohttp
-asyncio
 uvloop
 
-# ---------- Media ----------
+# Media
 ffmpeg-python
 yt-dlp
 youtube-search-python
@@ -21,22 +20,22 @@ beautifulsoup4
 lyricsgenius
 spotipy
 
-# ---------- System / Network ----------
+# System
 psutil
 dnspython
 speedtest-cli
 requests
 urllib3
 
-# ---------- Database ----------
+# Database
 motor
 
-# ---------- Git / Deploy ----------
+# Deploy
 gitpython
 heroku3
 python-dotenv
 pyyaml
 
-# ---------- Web (If dashboard used) ----------
+# Web
 flask
 gunicorn
