@@ -1,28 +1,42 @@
-pytgcalls
+# ---------- Telegram Core ----------
+pyrogram==2.0.106
+tgcrypto==1.2.5
+
+# ---------- Voice Call (STABLE ONLY) ----------
+pytgcalls==0.0.16
+tgcalls==0.0.10
+
+# ---------- Async / Utils ----------
 aiofiles
-asyncio
 aiohttp
-beautifulsoup4
-dnspython
+asyncio
+uvloop
+
+# ---------- Media ----------
 ffmpeg-python
+yt-dlp
+youtube-search-python
+pytube
+beautifulsoup4
+lyricsgenius
+spotipy
+
+# ---------- System / Network ----------
+psutil
+dnspython
+speedtest-cli
+requests
+urllib3
+
+# ---------- Database ----------
+motor
+
+# ---------- Git / Deploy ----------
 gitpython
 heroku3
-lyricsgenius
-motor
-psutil
-pytube
-py-tgcalls
 python-dotenv
 pyyaml
-requests
-speedtest-cli
-spotipy
-urllib3
-uvloop
+
+# ---------- Web (If dashboard used) ----------
 flask
 gunicorn
-youtube-search-python
-yt-dlp
-git+https://github.com/KurimuzonAkuma/pyrogram
-git+https://github.com/Vivekkumar-IN/pykeyboard
-git+https://github.com/TelegramPlayGround/pyrogram-tgcrypto
