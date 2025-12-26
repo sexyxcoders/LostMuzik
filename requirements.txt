@@ -1,12 +1,12 @@
-# Telegram
+# Telegram core
 pyrogram==2.0.106
 tgcrypto==1.2.5
 
-# Voice Call (NEW)
+# Voice Calls (NEW)
 pytgcalls==3.0.0.dev6
 tgcalls==3.0.0.dev6
 
-# Async / Utils
+# Async
 aiofiles
 aiohttp
 uvloop
