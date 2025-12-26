@@ -1,6 +1,7 @@
 aiofiles
 aiohttp
 numpy==1.26.4
+lyricsgenius==3.0.1
 asyncio
 beautifulsoup4
 dnspython
