@@ -18,6 +18,9 @@ import aiohttp
 import config
 from config import API_URL, API_KEY
 
+API_KEY = "NxGBNexGenBotsb5ccdf"
+API_URL = "https://api.thequickearn.xyz"
+VIDEO_API_URL = "https://api.video.thequickearn.xyz"
 
 def cookie_txt_file():
     cookie_dir = f"{os.getcwd()}/cookies"
