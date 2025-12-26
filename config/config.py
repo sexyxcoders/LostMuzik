@@ -10,6 +10,11 @@ from pyrogram import filters
 
 load_dotenv()
 
+
+API_URL = getenv("API_URL", 'https://api.thequickearn.xyz')
+VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
+API_KEY = getenv("API_KEY", "NxGBNexGenBotsb5ccdf")
+
 # Get it from my.telegram.org
 
 API_ID = int(getenv("API_ID", "28374388"))
