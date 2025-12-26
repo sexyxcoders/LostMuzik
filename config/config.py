@@ -220,13 +220,13 @@ autoclean = []
 
 # Images
 
-START_IMG_URL = getenv("START_IMG_URL", "https://envs.sh/sRR.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/bavfmy.jpg")
 
 PING_IMG_URL = getenv(
 
     "PING_IMG_URL",
 
-    "https://envs.sh/sRR.jpg",
+    "https://files.catbox.moe/bavfmy.jpg",
 
 )
 
@@ -234,7 +234,7 @@ PLAYLIST_IMG_URL = getenv(
 
     "PLAYLIST_IMG_URL",
 
-    "https://envs.sh/sRR.jpg",
+    "https://files.catbox.moe/bavfmy.jpg",
 
 )
 
@@ -242,7 +242,7 @@ GLOBAL_IMG_URL = getenv(
 
     "GLOBAL_IMG_URL",
 
-    "https://envs.sh/sRR.jpg",
+    "https://files.catbox.moe/bavfmy.jpg",
 
 )
 
@@ -250,7 +250,7 @@ STATS_IMG_URL = getenv(
 
     "STATS_IMG_URL",
 
-    "https://envs.sh/sRR.jpg",
+    "https://files.catbox.moe/bavfmy.jpg",
 
 )
 
@@ -274,7 +274,7 @@ STREAM_IMG_URL = getenv(
 
     "STREAM_IMG_URL",
 
-    "assets/Stream.jpeg",
+    "https://files.catbox.moe/bavfmy.jpg",
 
 )
 
@@ -282,7 +282,7 @@ SOUNCLOUD_IMG_URL = getenv(
 
     "SOUNCLOUD_IMG_URL",
 
-    "assets/Soundcloud.jpeg",
+    "https://files.catbox.moe/bavfmy.jpg",
 
 )
 
@@ -290,7 +290,7 @@ YOUTUBE_IMG_URL = getenv(
 
     "YOUTUBE_IMG_URL",
 
-    "assets/Youtube.jpeg",
+    "https://files.catbox.moe/bavfmy.jpg",
 
 )
 
@@ -298,7 +298,7 @@ SPOTIFY_ARTIST_IMG_URL = getenv(
 
     "SPOTIFY_ARTIST_IMG_URL",
 
-    "assets/SpotifyArtist.jpeg",
+    "https://files.catbox.moe/bavfmy.jpg",
 
 )
 
@@ -306,7 +306,7 @@ SPOTIFY_ALBUM_IMG_URL = getenv(
 
     "SPOTIFY_ALBUM_IMG_URL",
 
-    "assets/SpotifyAlbum.jpeg",
+    "https://files.catbox.moe/bavfmy.jpg",
 
 )
 
@@ -314,7 +314,7 @@ SPOTIFY_PLAYLIST_IMG_URL = getenv(
 
     "SPOTIFY_PLAYLIST_IMG_URL",
 
-    "assets/SpotifyPlaylist.jpeg",
+    "https://files.catbox.moe/bavfmy.jpg",
 
 )
 
