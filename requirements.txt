@@ -1,41 +1,44 @@
-# Telegram core
-pyrogram==2.0.106
-tgcrypto==1.2.5
-
-# Voice Calls (NEW)
-pytgcalls==3.0.0.dev6
-tgcalls==3.0.0.dev6
-
-# Async
 aiofiles
 aiohttp
-uvloop
-
-# Media
-ffmpeg-python
-yt-dlp
-youtube-search-python
-pytube
+#asyncio==3.4.3
+asyncio
 beautifulsoup4
-lyricsgenius
-spotipy
-
-# System
-psutil
 dnspython
-speedtest-cli
-requests
-urllib3
-
-# Database
-motor
-
-# Deploy
+ffmpeg-python
+future==0.18.3
+search_engine_parser
+telethon==1.33.1
 gitpython
+httpx[http2]
 heroku3
+hachoir
+motor==3.3.2
+pillow==9.5.0
+psutil
+py-tgcalls==0.9.7
+pykeyboard
+pymongo==4.6.3
 python-dotenv
-pyyaml
-
-# Web
-flask
-gunicorn
+pyyaml==6.0.1
+requests
+qrcode
+SafoneAPI==1.0.65
+tgcrypto
+gpytranslate
+MukeshAPI
+search_engine_parser
+googlesearch-python
+youtube-search-python
+spotipy
+telegraph
+speedtest-cli
+unidecode
+urllib3
+wget
+git+https://github.com/KurimuzonAkuma/pyrogram.git@2ae00a2710dd3e347798473f3dd784e9639edb1a
+yt-dlp
+bing_image_downloader
+git+https://github.com/alexmercerind/youtube-search-python@main
+git+https://github.com/joetats/youtube_search@master
+bing-image-urls
+Cloudscraper
