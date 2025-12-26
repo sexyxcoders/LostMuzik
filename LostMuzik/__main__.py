@@ -33,14 +33,14 @@ async def init():
         and not config.STRING4
         and not config.STRING5
     ):
-        LOGGER("LostMuzik").error(
+        LOGGER("NEXA_TEAM").error(
             "❌ Koi bhi Assistant Client define nahi hai! Bot band kiya ja raha hai."
         )
         return
 
     # ⚠️ Spotify vars missing (warning only)
     if not config.SPOTIFY_CLIENT_ID and not config.SPOTIFY_CLIENT_SECRET:
-        LOGGER("LostMuzik").warning(
+        LOGGER("NEXA_TEAM").warning(
             "⚠️ Spotify credentials set nahi hain. Spotify songs play nahi honge."
         )
 
@@ -55,7 +55,7 @@ async def init():
             BANNED_USERS.add(user_id)
 
     except Exception as e:
-        LOGGER("LostMuzik").warning(
+        LOGGER("NEXA_TEAM").warning(
             f"⚠️ Banned users load karte waqt error aaya: {e}"
         )
 
@@ -97,7 +97,7 @@ async def init():
     # 🧩 Extra decorators / handlers load
     await LostMuzik.decorators()
 
-    LOGGER("LostMuzik").info(
+    LOGGER("TEAM_NEXA").info(
         "🚀 Lost Muzik Bot successfully start ho gaya!"
     )
 
@@ -108,4 +108,4 @@ async def init():
 # ▶️ Entry point
 if __name__ == "__main__":
     loop.run_until_complete(init())
-    LOGGER("LostMuzik").info("🛑 Lost Muzik Bot band ho gaya")
+    LOGGER("TEAM_NEXQ").info("🛑 NEXA MUSIC Bot band ho gaya")
